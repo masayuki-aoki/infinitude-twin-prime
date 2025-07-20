@@ -25,7 +25,7 @@ import time
 from typing import Dict, List, Tuple, Optional
 
 # Configuration
-MAX_N = 10000  # Maximum n to verify (2n up to 20000)
+MAX_N = 10000000  # Maximum n to verify (2n up to 20000000)
 SHOW_PROGRESS = True
 PLOT_RESULTS = True
 
